@@ -6,14 +6,14 @@
     "note": "https://raw.githubusercontent.com/vsmhell/release/master/changelog.md"
   },
   "uninstaller": {
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-uninstaller-20190328.zip"
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
   },
-  "magisk": {
-    "version": "19.0",
-    "versionCode": "19000",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v19.0/Magisk-v19.0.zip",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/6378e4404ceb89979d367bcc4687d673aa02c927/notes.md",
-    "md5": "e867e1c75d7e93db99a55681e11c02e1"
+ "magisk": {
+    "version": "19.0-8d4c4072",
+    "versionCode": "19004",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-debug.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
+    "md5": "028565bc1a7c70c8f5c31bc4ae35a7d4"
   },
   "snet": {
     "versionCode": "11",
